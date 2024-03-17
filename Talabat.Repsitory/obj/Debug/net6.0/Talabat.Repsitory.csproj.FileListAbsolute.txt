@@ -1,0 +1,15 @@
+C:\Users\Captain\source\repos\Talabat.API.solutions\Talabat.Repsitory\bin\Debug\net6.0\Talabat.Repsitory.deps.json
+C:\Users\Captain\source\repos\Talabat.API.solutions\Talabat.Repsitory\bin\Debug\net6.0\Talabat.Repsitory.dll
+C:\Users\Captain\source\repos\Talabat.API.solutions\Talabat.Repsitory\bin\Debug\net6.0\Talabat.Repsitory.pdb
+C:\Users\Captain\source\repos\Talabat.API.solutions\Talabat.Repsitory\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\Captain\source\repos\Talabat.API.solutions\Talabat.Repsitory\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\Captain\source\repos\Talabat.API.solutions\Talabat.Repsitory\obj\Debug\net6.0\Talabat.Repsitory.csproj.AssemblyReference.cache
+C:\Users\Captain\source\repos\Talabat.API.solutions\Talabat.Repsitory\obj\Debug\net6.0\Talabat.Repsitory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Captain\source\repos\Talabat.API.solutions\Talabat.Repsitory\obj\Debug\net6.0\Talabat.Repsitory.AssemblyInfoInputs.cache
+C:\Users\Captain\source\repos\Talabat.API.solutions\Talabat.Repsitory\obj\Debug\net6.0\Talabat.Repsitory.AssemblyInfo.cs
+C:\Users\Captain\source\repos\Talabat.API.solutions\Talabat.Repsitory\obj\Debug\net6.0\Talabat.Repsitory.csproj.CoreCompileInputs.cache
+C:\Users\Captain\source\repos\Talabat.API.solutions\Talabat.Repsitory\obj\Debug\net6.0\Talabat.Repsitory.csproj.CopyComplete
+C:\Users\Captain\source\repos\Talabat.API.solutions\Talabat.Repsitory\obj\Debug\net6.0\Talabat.Repsitory.dll
+C:\Users\Captain\source\repos\Talabat.API.solutions\Talabat.Repsitory\obj\Debug\net6.0\refint\Talabat.Repsitory.dll
+C:\Users\Captain\source\repos\Talabat.API.solutions\Talabat.Repsitory\obj\Debug\net6.0\Talabat.Repsitory.pdb
+C:\Users\Captain\source\repos\Talabat.API.solutions\Talabat.Repsitory\obj\Debug\net6.0\ref\Talabat.Repsitory.dll
